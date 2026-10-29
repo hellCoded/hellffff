@@ -1,0 +1,27 @@
+name: Blue Lock
+accent: '#20D9FF'
+background: '#050D16'
+foreground: '#E8FAFF'
+details: darker
+cursor: '#2563EB'
+selection: '#102B52'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5577'
+    green: '#38D39F'
+    yellow: '#F6C85F'
+    blue: '#3399FF'
+    magenta: '#A77BFF'
+    cyan: '#20D9FF'
+    white: '#FFFFFF'
+  normal:
+    black: '#081522'
+    red: '#FF5577'
+    green: '#38D39F'
+    yellow: '#F6C85F'
+    blue: '#3399FF'
+    magenta: '#A77BFF'
+    cyan: '#20D9FF'
+    white: '#E8FAFF'

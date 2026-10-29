@@ -1,0 +1,27 @@
+name: Black Clover
+accent: '#9BE15D'
+background: '#071008'
+foreground: '#ECFFE2'
+details: darker
+cursor: '#FF4D6D'
+selection: '#1E3215'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5964'
+    green: '#9BE15D'
+    yellow: '#F2C94C'
+    blue: '#4F8FE8'
+    magenta: '#B57EDC'
+    cyan: '#55C9B8'
+    white: '#FFFFFF'
+  normal:
+    black: '#0C170B'
+    red: '#FF5964'
+    green: '#9BE15D'
+    yellow: '#F2C94C'
+    blue: '#4F8FE8'
+    magenta: '#B57EDC'
+    cyan: '#55C9B8'
+    white: '#ECFFE2'

@@ -1,0 +1,27 @@
+name: Blood Moon
+accent: '#E63946'
+background: '#090608'
+foreground: '#F2D7D5'
+details: darker
+cursor: '#FF6B6B'
+selection: '#3A1116'
+
+terminal_colors:
+  bright:
+    black: '#4A3C3F'
+    red: '#FF6B6B'
+    green: '#A7D7A9'
+    yellow: '#F0C674'
+    blue: '#91A4D2'
+    magenta: '#D16D96'
+    cyan: '#83C5C7'
+    white: '#FFF5F4'
+  normal:
+    black: '#090608'
+    red: '#E63946'
+    green: '#7BAE7F'
+    yellow: '#D9A441'
+    blue: '#6C7AAB'
+    magenta: '#9B4D69'
+    cyan: '#5F9EA0'
+    white: '#F2D7D5'

@@ -1,0 +1,27 @@
+name: Solo Leveling
+accent: '#7C5CFF'
+background: '#05060C'
+foreground: '#EAE8FF'
+details: darker
+cursor: '#8B5CF6'
+selection: '#201747'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5577'
+    green: '#55D6BE'
+    yellow: '#D8B65A'
+    blue: '#6E8FE8'
+    magenta: '#A78BFA'
+    cyan: '#5CC8FF'
+    white: '#FFFFFF'
+  normal:
+    black: '#0B0C15'
+    red: '#FF5577'
+    green: '#55D6BE'
+    yellow: '#D8B65A'
+    blue: '#6E8FE8'
+    magenta: '#A78BFA'
+    cyan: '#5CC8FF'
+    white: '#EAE8FF'

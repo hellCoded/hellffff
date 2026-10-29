@@ -1,0 +1,27 @@
+name: Jujutsu Kaisen
+accent: '#8B5CF6'
+background: '#080A14'
+foreground: '#F0EDFF'
+details: darker
+cursor: '#A855F7'
+selection: '#24183F'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5E78'
+    green: '#63E6BE'
+    yellow: '#F9C74F'
+    blue: '#5DA9E9'
+    magenta: '#C084FC'
+    cyan: '#67E8F9'
+    white: '#FFFFFF'
+  normal:
+    black: '#0C0D1D'
+    red: '#FF5E78'
+    green: '#63E6BE'
+    yellow: '#F9C74F'
+    blue: '#5DA9E9'
+    magenta: '#C084FC'
+    cyan: '#67E8F9'
+    white: '#F0EDFF'

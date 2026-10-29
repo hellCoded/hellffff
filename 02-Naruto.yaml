@@ -1,0 +1,27 @@
+name: Naruto
+accent: '#FF7A00'
+background: '#120B08'
+foreground: '#FFF1D6'
+details: darker
+cursor: '#FF9F1C'
+selection: '#3A1B0A'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF4D3D'
+    green: '#7BC96F'
+    yellow: '#FFC857'
+    blue: '#3F8CFF'
+    magenta: '#B565D9'
+    cyan: '#2EC4B6'
+    white: '#FFFFFF'
+  normal:
+    black: '#180E09'
+    red: '#FF4D3D'
+    green: '#7BC96F'
+    yellow: '#FFC857'
+    blue: '#3F8CFF'
+    magenta: '#B565D9'
+    cyan: '#2EC4B6'
+    white: '#FFF1D6'

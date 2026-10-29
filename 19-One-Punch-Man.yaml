@@ -1,0 +1,27 @@
+name: One Punch Man
+accent: '#FFD166'
+background: '#120B08'
+foreground: '#FFF4D6'
+details: darker
+cursor: '#E63946'
+selection: '#3A170F'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF4D4D'
+    green: '#65C466'
+    yellow: '#FFD166'
+    blue: '#4D8FE8'
+    magenta: '#A76BC7'
+    cyan: '#48B9C8'
+    white: '#FFFFFF'
+  normal:
+    black: '#180E0A'
+    red: '#FF4D4D'
+    green: '#65C466'
+    yellow: '#FFD166'
+    blue: '#4D8FE8'
+    magenta: '#A76BC7'
+    cyan: '#48B9C8'
+    white: '#FFF4D6'

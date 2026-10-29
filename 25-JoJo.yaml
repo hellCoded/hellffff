@@ -1,0 +1,27 @@
+name: JoJo's Bizarre Adventure
+accent: '#D946EF'
+background: '#100812'
+foreground: '#FDEBFF'
+details: darker
+cursor: '#FF3E81'
+selection: '#35113B'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF4D6D'
+    green: '#72D69B'
+    yellow: '#F4C95D'
+    blue: '#5B8FF9'
+    magenta: '#D946EF'
+    cyan: '#3FC1C9'
+    white: '#FFFFFF'
+  normal:
+    black: '#180C1D'
+    red: '#FF4D6D'
+    green: '#72D69B'
+    yellow: '#F4C95D'
+    blue: '#5B8FF9'
+    magenta: '#D946EF'
+    cyan: '#3FC1C9'
+    white: '#FDEBFF'

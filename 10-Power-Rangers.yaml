@@ -1,0 +1,27 @@
+name: Power Rangers
+accent: '#FF3344'
+background: '#090A10'
+foreground: '#F5F7FF'
+details: darker
+cursor: '#FFD400'
+selection: '#2A2035'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF4A5A'
+    green: '#4ADE80'
+    yellow: '#FFE14A'
+    blue: '#4C8DFF'
+    magenta: '#D946EF'
+    cyan: '#22D3EE'
+    white: '#FFFFFF'
+  normal:
+    black: '#10121B'
+    red: '#FF4A5A'
+    green: '#4ADE80'
+    yellow: '#FFE14A'
+    blue: '#4C8DFF'
+    magenta: '#D946EF'
+    cyan: '#22D3EE'
+    white: '#F5F7FF'

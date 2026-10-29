@@ -1,0 +1,27 @@
+name: Spirited Away
+accent: '#5EEAD4'
+background: '#071316'
+foreground: '#E5FFFA'
+details: darker
+cursor: '#F59EBD'
+selection: '#163C3B'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#F87171'
+    green: '#7DD3A8'
+    yellow: '#F7D794'
+    blue: '#67B7D1'
+    magenta: '#C4A7E7'
+    cyan: '#5EEAD4'
+    white: '#FFFFFF'
+  normal:
+    black: '#0B1E21'
+    red: '#F87171'
+    green: '#7DD3A8'
+    yellow: '#F7D794'
+    blue: '#67B7D1'
+    magenta: '#C4A7E7'
+    cyan: '#5EEAD4'
+    white: '#E5FFFA'

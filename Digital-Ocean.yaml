@@ -1,0 +1,27 @@
+name: Digital Ocean
+accent: '#00D9FF'
+background: '#07141F'
+foreground: '#D7F9FF'
+details: darker
+cursor: '#4DE1C1'
+selection: '#103747'
+
+terminal_colors:
+  bright:
+    black: '#355263'
+    red: '#FF8097'
+    green: '#78F0D7'
+    yellow: '#FFE29A'
+    blue: '#80C5FF'
+    magenta: '#CCB8FF'
+    cyan: '#66E9FF'
+    white: '#FFFFFF'
+  normal:
+    black: '#07141F'
+    red: '#FF5C7A'
+    green: '#4DE1C1'
+    yellow: '#FFD166'
+    blue: '#4AA8FF'
+    magenta: '#B28DFF'
+    cyan: '#00D9FF'
+    white: '#D7F9FF'

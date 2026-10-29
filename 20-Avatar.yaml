@@ -1,0 +1,27 @@
+name: Avatar: The Last Airbender
+accent: '#55C7E8'
+background: '#071117'
+foreground: '#E9FBFF'
+details: darker
+cursor: '#E76F51'
+selection: '#15343E'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#EF6C5B'
+    green: '#6DBB76'
+    yellow: '#E9C46A'
+    blue: '#4EA5D9'
+    magenta: '#A78BFA'
+    cyan: '#5FD8D2'
+    white: '#FFFFFF'
+  normal:
+    black: '#0C1920'
+    red: '#EF6C5B'
+    green: '#6DBB76'
+    yellow: '#E9C46A'
+    blue: '#4EA5D9'
+    magenta: '#A78BFA'
+    cyan: '#5FD8D2'
+    white: '#E9FBFF'

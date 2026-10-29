@@ -1,0 +1,27 @@
+name: Sailor Moon
+accent: '#F3A6D8'
+background: '#0C0816'
+foreground: '#FDEFFF'
+details: darker
+cursor: '#FF5EA8'
+selection: '#34183B'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF6B9D'
+    green: '#83E8D3'
+    yellow: '#F8D66D'
+    blue: '#6EA8FE'
+    magenta: '#C084FC'
+    cyan: '#7DD3FC'
+    white: '#FFFFFF'
+  normal:
+    black: '#120B1D'
+    red: '#FF6B9D'
+    green: '#83E8D3'
+    yellow: '#F8D66D'
+    blue: '#6EA8FE'
+    magenta: '#C084FC'
+    cyan: '#7DD3FC'
+    white: '#FDEFFF'

@@ -1,0 +1,27 @@
+name: Fairy Tail
+accent: '#5EA7FF'
+background: '#08101A'
+foreground: '#EAF4FF'
+details: darker
+cursor: '#FF5A5F'
+selection: '#2A1820'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF6B6B'
+    green: '#61D68A'
+    yellow: '#FFD166'
+    blue: '#5DA9FF'
+    magenta: '#B37DDB'
+    cyan: '#54D6D2'
+    white: '#FFFFFF'
+  normal:
+    black: '#0D1722'
+    red: '#FF6B6B'
+    green: '#61D68A'
+    yellow: '#FFD166'
+    blue: '#5DA9FF'
+    magenta: '#B37DDB'
+    cyan: '#54D6D2'
+    white: '#EAF4FF'

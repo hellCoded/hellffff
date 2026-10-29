@@ -1,0 +1,27 @@
+name: My Hero Academia
+accent: '#00D9A6'
+background: '#071313'
+foreground: '#E7FFFA'
+details: darker
+cursor: '#FF4B5C'
+selection: '#103D38'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5C70'
+    green: '#2EE6A6'
+    yellow: '#FFD166'
+    blue: '#3B9EFF'
+    magenta: '#C084FC'
+    cyan: '#38E8D0'
+    white: '#FFFFFF'
+  normal:
+    black: '#0B1A19'
+    red: '#FF5C70'
+    green: '#2EE6A6'
+    yellow: '#FFD166'
+    blue: '#3B9EFF'
+    magenta: '#C084FC'
+    cyan: '#38E8D0'
+    white: '#E7FFFA'

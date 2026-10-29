@@ -1,0 +1,27 @@
+name: Hunter × Hunter
+accent: '#59D36C'
+background: '#07120A'
+foreground: '#E9FFE9'
+details: darker
+cursor: '#F2B84B'
+selection: '#17391E'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF6B6B'
+    green: '#69E27B'
+    yellow: '#F6C85F'
+    blue: '#55A7E8'
+    magenta: '#B084D7'
+    cyan: '#4FD1C5'
+    white: '#FFFFFF'
+  normal:
+    black: '#0C1A0E'
+    red: '#FF6B6B'
+    green: '#69E27B'
+    yellow: '#F6C85F'
+    blue: '#55A7E8'
+    magenta: '#B084D7'
+    cyan: '#4FD1C5'
+    white: '#E9FFE9'

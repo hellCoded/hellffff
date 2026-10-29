@@ -1,0 +1,27 @@
+name: Cowboy Bebop
+accent: '#F0A202'
+background: '#0B0E12'
+foreground: '#F2F2EC'
+details: darker
+cursor: '#E94F37'
+selection: '#3A1B15'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#F15B4A'
+    green: '#70B77E'
+    yellow: '#F2B134'
+    blue: '#4F8CC9'
+    magenta: '#A66BBE'
+    cyan: '#4FB3BF'
+    white: '#FFFFFF'
+  normal:
+    black: '#12161B'
+    red: '#F15B4A'
+    green: '#70B77E'
+    yellow: '#F2B134'
+    blue: '#4F8CC9'
+    magenta: '#A66BBE'
+    cyan: '#4FB3BF'
+    white: '#F2F2EC'

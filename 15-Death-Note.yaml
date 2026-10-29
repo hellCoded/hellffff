@@ -1,0 +1,27 @@
+name: Death Note
+accent: '#D8DEE9'
+background: '#050505'
+foreground: '#E7E9EE'
+details: darker
+cursor: '#C81E3A'
+selection: '#321016'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#E63946'
+    green: '#718096'
+    yellow: '#D6B35A'
+    blue: '#6B8FB3'
+    magenta: '#A77AB5'
+    cyan: '#6AA6A6'
+    white: '#FFFFFF'
+  normal:
+    black: '#0C0C0C'
+    red: '#E63946'
+    green: '#718096'
+    yellow: '#D6B35A'
+    blue: '#6B8FB3'
+    magenta: '#A77AB5'
+    cyan: '#6AA6A6'
+    white: '#E7E9EE'

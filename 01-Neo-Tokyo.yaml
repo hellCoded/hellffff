@@ -1,0 +1,27 @@
+name: Neo Tokyo
+accent: '#00E5FF'
+background: '#090B14'
+foreground: '#E8F7FF'
+details: darker
+cursor: '#FF2DAA'
+selection: '#211533'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF4F8B'
+    green: '#48FFB0'
+    yellow: '#FFD166'
+    blue: '#27A7FF'
+    magenta: '#C77DFF'
+    cyan: '#00E5FF'
+    white: '#FFFFFF'
+  normal:
+    black: '#101B2D'
+    red: '#FF4F8B'
+    green: '#48FFB0'
+    yellow: '#FFD166'
+    blue: '#27A7FF'
+    magenta: '#C77DFF'
+    cyan: '#00E5FF'
+    white: '#E8F7FF'

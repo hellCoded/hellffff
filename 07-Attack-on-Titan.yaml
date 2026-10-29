@@ -1,0 +1,27 @@
+name: Attack on Titan
+accent: '#C8A878'
+background: '#11110F'
+foreground: '#F2EEE5'
+details: darker
+cursor: '#B23A48'
+selection: '#3A2921'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#D94B59'
+    green: '#8AA87B'
+    yellow: '#D7B36A'
+    blue: '#6E8FBF'
+    magenta: '#A58AB5'
+    cyan: '#7EAFA7'
+    white: '#FFFFFF'
+  normal:
+    black: '#171713'
+    red: '#D94B59'
+    green: '#8AA87B'
+    yellow: '#D7B36A'
+    blue: '#6E8FBF'
+    magenta: '#A58AB5'
+    cyan: '#7EAFA7'
+    white: '#F2EEE5'

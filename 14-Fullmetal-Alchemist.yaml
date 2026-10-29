@@ -1,0 +1,27 @@
+name: Fullmetal Alchemist
+accent: '#D8C6A3'
+background: '#0D0D0D'
+foreground: '#F1EEE6'
+details: darker
+cursor: '#B22234'
+selection: '#34271D'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#C92A3B'
+    green: '#7FAF72'
+    yellow: '#D6B56D'
+    blue: '#6689A8'
+    magenta: '#9A78A8'
+    cyan: '#62A7A0'
+    white: '#FFFFFF'
+  normal:
+    black: '#171717'
+    red: '#C92A3B'
+    green: '#7FAF72'
+    yellow: '#D6B56D'
+    blue: '#6689A8'
+    magenta: '#9A78A8'
+    cyan: '#62A7A0'
+    white: '#F1EEE6'

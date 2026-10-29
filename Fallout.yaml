@@ -1,0 +1,27 @@
+name: Fallout
+accent: '#33FF33'
+background: '#0A1208'
+foreground: '#9DFF66'
+details: darker
+cursor: '#33FF33'
+selection: '#193318'
+
+terminal_colors:
+  bright:
+    black: '#31502A'
+    red: '#66FF66'
+    green: '#66FF66'
+    yellow: '#CCFF99'
+    blue: '#99FF99'
+    magenta: '#AAFFAA'
+    cyan: '#99FFBB'
+    white: '#CCFFB8'
+  normal:
+    black: '#0A1208'
+    red: '#2BFF2B'
+    green: '#33FF33'
+    yellow: '#B6FF66'
+    blue: '#5CFF5C'
+    magenta: '#7CFF7C'
+    cyan: '#66FF99'
+    white: '#9DFF66'

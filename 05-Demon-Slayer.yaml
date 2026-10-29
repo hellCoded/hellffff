@@ -1,0 +1,27 @@
+name: Demon Slayer
+accent: '#E63946'
+background: '#100709'
+foreground: '#FFEDEE'
+details: darker
+cursor: '#FF4D6D'
+selection: '#351017'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF334E'
+    green: '#63C174'
+    yellow: '#E8B44F'
+    blue: '#5DA9E9'
+    magenta: '#B06AB3'
+    cyan: '#56C8D8'
+    white: '#FFFFFF'
+  normal:
+    black: '#17090C'
+    red: '#FF334E'
+    green: '#63C174'
+    yellow: '#E8B44F'
+    blue: '#5DA9E9'
+    magenta: '#B06AB3'
+    cyan: '#56C8D8'
+    white: '#FFEDEE'

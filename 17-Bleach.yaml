@@ -1,0 +1,27 @@
+name: Bleach
+accent: '#DDE7F0'
+background: '#070A0F'
+foreground: '#EAF2F8'
+details: darker
+cursor: '#FF5577'
+selection: '#252A35'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF667F'
+    green: '#70C8A0'
+    yellow: '#E8C46A'
+    blue: '#5A91C9'
+    magenta: '#A78BFA'
+    cyan: '#67D7E8'
+    white: '#FFFFFF'
+  normal:
+    black: '#0E1219'
+    red: '#FF667F'
+    green: '#70C8A0'
+    yellow: '#E8C46A'
+    blue: '#5A91C9'
+    magenta: '#A78BFA'
+    cyan: '#67D7E8'
+    white: '#EAF2F8'

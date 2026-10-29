@@ -1,0 +1,27 @@
+name: Haikyuu!!
+accent: '#FF8A00'
+background: '#0D0D0D'
+foreground: '#FFF4E5'
+details: darker
+cursor: '#FF6B00'
+selection: '#3A1F08'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF7A00'
+    green: '#6CCB77'
+    yellow: '#FFD166'
+    blue: '#4C8DFF'
+    magenta: '#A77ACB'
+    cyan: '#45C4C8'
+    white: '#FFFFFF'
+  normal:
+    black: '#151515'
+    red: '#FF7A00'
+    green: '#6CCB77'
+    yellow: '#FFD166'
+    blue: '#4C8DFF'
+    magenta: '#A77ACB'
+    cyan: '#45C4C8'
+    white: '#FFF4E5'

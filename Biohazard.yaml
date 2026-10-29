@@ -1,0 +1,27 @@
+name: Biohazard
+accent: '#B6FF00'
+background: '#10120A'
+foreground: '#E9F5C9'
+details: darker
+cursor: '#F5E642'
+selection: '#29330A'
+
+terminal_colors:
+  bright:
+    black: '#41452E'
+    red: '#FF7777'
+    green: '#D2FF66'
+    yellow: '#FFF27A'
+    blue: '#8BE6C5'
+    magenta: '#E39AFF'
+    cyan: '#8AF5D9'
+    white: '#F7FFE2'
+  normal:
+    black: '#10120A'
+    red: '#FF4D4D'
+    green: '#B6FF00'
+    yellow: '#F5E642'
+    blue: '#5FC7A5'
+    magenta: '#D66BFF'
+    cyan: '#55E6C1'
+    white: '#E9F5C9'

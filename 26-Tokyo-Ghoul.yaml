@@ -1,0 +1,27 @@
+name: Tokyo Ghoul
+accent: '#B8B8C8'
+background: '#070709'
+foreground: '#E9E9EF'
+details: darker
+cursor: '#D51F3D'
+selection: '#321016'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#E52B45'
+    green: '#7C9A7A'
+    yellow: '#C8A95B'
+    blue: '#667FA8'
+    magenta: '#9B78A9'
+    cyan: '#5EA6A6'
+    white: '#FFFFFF'
+  normal:
+    black: '#0D0D10'
+    red: '#E52B45'
+    green: '#7C9A7A'
+    yellow: '#C8A95B'
+    blue: '#667FA8'
+    magenta: '#9B78A9'
+    cyan: '#5EA6A6'
+    white: '#E9E9EF'

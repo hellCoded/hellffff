@@ -1,0 +1,27 @@
+name: Dragon Ball
+accent: '#FF9D00'
+background: '#120B05'
+foreground: '#FFF2D5'
+details: darker
+cursor: '#FF6B00'
+selection: '#40210A'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF3B30'
+    green: '#7ED957'
+    yellow: '#FFD23F'
+    blue: '#3B82F6'
+    magenta: '#A855F7'
+    cyan: '#00C2FF'
+    white: '#FFFFFF'
+  normal:
+    black: '#1A0E06'
+    red: '#FF3B30'
+    green: '#7ED957'
+    yellow: '#FFD23F'
+    blue: '#3B82F6'
+    magenta: '#A855F7'
+    cyan: '#00C2FF'
+    white: '#FFF2D5'

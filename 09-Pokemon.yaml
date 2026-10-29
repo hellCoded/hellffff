@@ -1,0 +1,27 @@
+name: Pokémon
+accent: '#FFD23F'
+background: '#0A1017'
+foreground: '#F4FBFF'
+details: darker
+cursor: '#FF4B4B'
+selection: '#26384A'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5B5B'
+    green: '#5FD36B'
+    yellow: '#FFD23F'
+    blue: '#4AA3FF'
+    magenta: '#A78BFA'
+    cyan: '#24C7D9'
+    white: '#FFFFFF'
+  normal:
+    black: '#101923'
+    red: '#FF5B5B'
+    green: '#5FD36B'
+    yellow: '#FFD23F'
+    blue: '#4AA3FF'
+    magenta: '#A78BFA'
+    cyan: '#24C7D9'
+    white: '#F4FBFF'

@@ -1,0 +1,27 @@
+name: Chainsaw Man
+accent: '#FF3B30'
+background: '#0D0808'
+foreground: '#FFECEC'
+details: darker
+cursor: '#FF4D4D'
+selection: '#3B1111'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF5555'
+    green: '#A3D977'
+    yellow: '#E9B44C'
+    blue: '#5E8FD0'
+    magenta: '#B27AB8'
+    cyan: '#4FB9B0'
+    white: '#FFFFFF'
+  normal:
+    black: '#150A0A'
+    red: '#FF5555'
+    green: '#A3D977'
+    yellow: '#E9B44C'
+    blue: '#5E8FD0'
+    magenta: '#B27AB8'
+    cyan: '#4FB9B0'
+    white: '#FFECEC'

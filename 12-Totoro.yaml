@@ -1,0 +1,27 @@
+name: Totoro
+accent: '#8BC7A7'
+background: '#0A120F'
+foreground: '#EAF7EF'
+details: darker
+cursor: '#D97B66'
+selection: '#21372E'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#E07A5F'
+    green: '#81B29A'
+    yellow: '#F2CC8F'
+    blue: '#6C91BF'
+    magenta: '#A98BC5'
+    cyan: '#6CC4B4'
+    white: '#FFFFFF'
+  normal:
+    black: '#101A15'
+    red: '#E07A5F'
+    green: '#81B29A'
+    yellow: '#F2CC8F'
+    blue: '#6C91BF'
+    magenta: '#A98BC5'
+    cyan: '#6CC4B4'
+    white: '#EAF7EF'

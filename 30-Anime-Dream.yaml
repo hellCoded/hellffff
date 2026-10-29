@@ -1,0 +1,27 @@
+name: Anime Dream
+accent: '#8BE9FD'
+background: '#090A14'
+foreground: '#EEF8FF'
+details: darker
+cursor: '#FF79C6'
+selection: '#2A1732'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF6B9D'
+    green: '#8BE9FD'
+    yellow: '#F1FA8C'
+    blue: '#6EA8FE'
+    magenta: '#BD93F9'
+    cyan: '#50FA7B'
+    white: '#FFFFFF'
+  normal:
+    black: '#111323'
+    red: '#FF6B9D'
+    green: '#8BE9FD'
+    yellow: '#F1FA8C'
+    blue: '#6EA8FE'
+    magenta: '#BD93F9'
+    cyan: '#50FA7B'
+    white: '#EEF8FF'

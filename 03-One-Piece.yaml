@@ -1,0 +1,27 @@
+name: One Piece
+accent: '#16C7E8'
+background: '#06131B'
+foreground: '#E7FBFF'
+details: darker
+cursor: '#FF5A5F'
+selection: '#12343F'
+
+terminal_colors:
+  bright:
+    black: '#4A5568'
+    red: '#FF6B6B'
+    green: '#57D38C'
+    yellow: '#FFD166'
+    blue: '#3BA7FF'
+    magenta: '#A78BFA'
+    cyan: '#36E0FF'
+    white: '#FFFFFF'
+  normal:
+    black: '#071A25'
+    red: '#FF6B6B'
+    green: '#57D38C'
+    yellow: '#FFD166'
+    blue: '#3BA7FF'
+    magenta: '#A78BFA'
+    cyan: '#36E0FF'
+    white: '#E7FBFF'
